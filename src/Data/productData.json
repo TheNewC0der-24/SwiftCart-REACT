@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "title": "Apple iPhone 12 Pro",
+        "rating": 4.5,
+        "category": "Electronics",
+        "price": 549,
+        "description": "The Apple iPhone 12 Pro features a stunning 6.1-inch Super Retina XDR display, an A14 Bionic chip, and a triple-camera system with LiDAR for an enhanced photography experience.",
+        "image": "https://rukminim2.flixcart.com/image/850/1000/kg8avm80/mobile/s/9/w/apple-iphone-12-pro-dummyapplefsn-original-imafwgbrnpyygbv9.jpeg?q=90"
+    },
+    {
+        "id": 2,
+        "title": "Instant Pot Duo Nova Pressure Cooker",
+        "rating": 4.8,
+        "category": "Home & Kitchen",
+        "price": 99.99,
+        "description": "The Instant Pot Duo Nova Pressure Cooker is a versatile kitchen appliance that combines seven functions, including pressure cooking, slow cooking, sautéing, and more. It's designed to save time and energy in the kitchen.",
+        "image": "https://images-cdn.ubuy.co.in/63b6358f798dc35fcf0b88c4-instant-pot-duo-nova-7-in-1-electric.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Nike Men's Revolution 5 Running Shoes",
+        "rating": 4.6,
+        "category": "Sports & Outdoors",
+        "price": 79.99,
+        "description": "The Nike Men's Revolution 5 Running Shoes are lightweight and breathable footwear designed for optimal comfort and performance during your runs. They feature a durable outsole and cushioned midsole for excellent support.",
+        "image": "https://m.media-amazon.com/images/I/71OT913TD9S._AC_UY1000_.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Samsung 55-inch 4K Ultra HD Smart TV",
+        "rating": 4.7,
+        "category": "Electronics",
+        "price": 899.99,
+        "description": "The Samsung 55-inch 4K Ultra HD Smart TV delivers stunning visuals with its crystal-clear display and HDR technology. It comes with built-in streaming apps and voice control for a seamless entertainment experience.",
+        "image": "https://i.gadgets360cdn.com/products/televisions/large/1548155056_832_samsung_55-inch-led-ultra-hd-4k-tv-55nu7100.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Keurig K-Elite Coffee Maker",
+        "rating": 4.4,
+        "category": "Home & Kitchen",
+        "price": 129.99,
+        "description": "The Keurig K-Elite Coffee Maker allows you to brew a perfect cup of coffee in minutes. It offers multiple brew sizes, a strong brew option, and a large water reservoir for convenience.",
+        "image": "https://m.media-amazon.com/images/I/81sG72G84+L.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Adidas Women's Cloudfoam Pure Running Shoes",
+        "rating": 4.9,
+        "category": "Sports & Outdoors",
+        "price": 69.99,
+        "description": "The Adidas Women's Cloudfoam Pure Running Shoes provide superior comfort and support for your daily runs. They feature a lightweight and breathable design with cushioned midsoles for a responsive feel.",
+        "image": "https://m.media-amazon.com/images/I/71U9pqEBfgL._AC_UY1000_.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Sony WH-1000XM4 Wireless Noise-Canceling Headphones",
+        "rating": 4.8,
+        "category": "Electronics",
+        "price": 349.99,
+        "description": "The Sony WH-1000XM4 Wireless Noise-Canceling Headphones offer industry-leading noise cancellation and high-quality audio. They feature a comfortable over-ear design and long battery life for all-day listening.",
+        "image": "https://www.sony.co.in/image/5d02da5df552836db894cead8a68f5f3?fmt=pjpeg&wid=330&bgcolor=FFFFFF&bgc=FFFFFF"
+    },
+    {
+        "id": 8,
+        "title": "Instant Pot Air Fryer Lid",
+        "rating": 4.6,
+        "category": "Home & Kitchen",
+        "price": 79.99,
+        "description": "The Instant Pot Air Fryer Lid is a versatile accessory that turns your Instant Pot into an air fryer. It allows you to enjoy crispy and delicious fried foods with less oil.",
+        "image": "https://images-cdn.ubuy.co.in/63ea67177b714335c93ed01a-instant-pot-air-fryer-lid-6-in-1-no.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Fitbit Charge 4 Fitness and Activity Tracker",
+        "rating": 4.2,
+        "category": "Electronics",
+        "price": 149.99,
+        "description": "The Fitbit Charge 4 Fitness and Activity Tracker is a feature-packed wearable device that tracks your heart rate, sleep, and activities. It comes with built-in GPS and supports contactless payments.",
+        "image": "https://m.media-amazon.com/images/I/71smqRr0pmL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Amazon Echo Dot (4th Generation)",
+        "rating": 4.5,
+        "category": "Electronics",
+        "price": 49.99,
+        "description": "The Amazon Echo Dot (4th Generation) is a smart speaker powered by Alexa, which allows you to control your smart home devices, play music, and get information using voice commands.",
+        "image": "https://m.media-amazon.com/images/I/61JhG2HKMCL._AC_UF154,200_QL80_.jpg"
+    },
+    {
+        "id": 11,
+        "title": "Cuisinart 14-Cup Food Processor",
+        "rating": 4.7,
+        "category": "Home & Kitchen",
+        "price": 199.99,
+        "description": "The Cuisinart 14-Cup Food Processor is a versatile kitchen appliance that can handle various food preparation tasks. It comes with multiple attachments and a large capacity bowl.",
+        "image": "https://m.media-amazon.com/images/I/51cdbS54aBS.jpg"
+    },
+    {
+        "id": 12,
+        "title": "Nike Men's Air Zoom Pegasus 38 Running Shoes",
+        "rating": 4.8,
+        "category": "Sports & Outdoors",
+        "price": 109.99,
+        "description": "The Nike Men's Air Zoom Pegasus 38 Running Shoes are designed for comfort and responsiveness during your runs. They feature Zoom Air cushioning and a breathable mesh upper.",
+        "image": "https://cdn.fleetfeet.com/assets/2021_NIKE_PEGASUS_38_MENS_12.jpg/dynamic:1-aspect:2.4-fit:cover-strategy:entropy/2021_NIKE_PEGASUS_38_MENS_12--1440.jpg"
+    },
+    {
+        "id": 13,
+        "title": "Samsung 27-inch Curved Gaming Monitor",
+        "rating": 4.6,
+        "category": "Electronics",
+        "price": 299.99,
+        "description": "The Samsung 27-inch Curved Gaming Monitor delivers immersive visuals and smooth gameplay. It features a high refresh rate, a curved display, and AMD FreeSync technology.",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/81cSdJuBbFL._AC_UL600_SR600,600_.jpg"
+    },
+    {
+        "id": 14,
+        "title": "Dyson V11 Animal Cordless Vacuum Cleaner",
+        "rating": 4.9,
+        "category": "Home & Kitchen",
+        "price": 599.99,
+        "description": "The Dyson V11 Animal Cordless Vacuum Cleaner offers powerful suction and advanced filtration for effective cleaning. It comes with various attachments and has a long battery life.",
+        "image": "https://images-cdn.ubuy.co.in/6458f55d92204111e4131c10-dyson-v11-animal-cordless-vacuum.jpg"
+    },
+    {
+        "id": 15,
+        "title": "Under Armour Men's Tech 2.0 Short Sleeve T-Shirt",
+        "rating": 4.4,
+        "category": "Clothing",
+        "price": 24.99,
+        "description": "The Under Armour Men's Tech 2.0 Short Sleeve T-Shirt is made with sweat-wicking fabric to keep you dry and comfortable during workouts. It features a loose fit for enhanced mobility.",
+        "image": "https://m.media-amazon.com/images/I/61Hgr+ecuiL._AC_UY1100_.jpg"
+    },
+    {
+        "id": 16,
+        "title": "Bose QuietComfort 35 II Wireless Headphones",
+        "rating": 4.7,
+        "category": "Electronics",
+        "price": 299.99,
+        "description": "The Bose QuietComfort 35 II Wireless Headphones offer exceptional noise cancellation and superb sound quality. They are comfortable to wear and come with built-in Google Assistant and Amazon Alexa.",
+        "image": "https://assets.bose.com/content/dam/Bose_DAM/Web/consumer_electronics/global/products/headphones/qc35_ii/product_silo_images/qc35_ii_black_EC_hero.psd/_jcr_content/renditions/cq5dam.web.320.320.png"
+    }
+]
