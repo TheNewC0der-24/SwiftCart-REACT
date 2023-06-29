@@ -64,15 +64,6 @@
     },
     {
         "id": 8,
-        "title": "Instant Pot Air Fryer Lid",
-        "rating": 4.6,
-        "category": "Home & Kitchen",
-        "price": 79.99,
-        "description": "The Instant Pot Air Fryer Lid is a versatile accessory that turns your Instant Pot into an air fryer. It allows you to enjoy crispy and delicious fried foods with less oil.",
-        "image": "https://images-cdn.ubuy.co.in/63ea67177b714335c93ed01a-instant-pot-air-fryer-lid-6-in-1-no.jpg"
-    },
-    {
-        "id": 9,
         "title": "Fitbit Charge 4 Fitness and Activity Tracker",
         "rating": 4.2,
         "category": "Electronics",
@@ -81,7 +72,7 @@
         "image": "https://m.media-amazon.com/images/I/71smqRr0pmL._AC_UF1000,1000_QL80_.jpg"
     },
     {
-        "id": 10,
+        "id": 9,
         "title": "Amazon Echo Dot (4th Generation)",
         "rating": 4.5,
         "category": "Electronics",
@@ -90,7 +81,7 @@
         "image": "https://m.media-amazon.com/images/I/61JhG2HKMCL._AC_UF154,200_QL80_.jpg"
     },
     {
-        "id": 11,
+        "id": 10,
         "title": "Cuisinart 14-Cup Food Processor",
         "rating": 4.7,
         "category": "Home & Kitchen",
@@ -99,7 +90,7 @@
         "image": "https://m.media-amazon.com/images/I/51cdbS54aBS.jpg"
     },
     {
-        "id": 12,
+        "id": 11,
         "title": "Nike Men's Air Zoom Pegasus 38 Running Shoes",
         "rating": 4.8,
         "category": "Sports & Outdoors",
@@ -108,7 +99,7 @@
         "image": "https://cdn.fleetfeet.com/assets/2021_NIKE_PEGASUS_38_MENS_12.jpg/dynamic:1-aspect:2.4-fit:cover-strategy:entropy/2021_NIKE_PEGASUS_38_MENS_12--1440.jpg"
     },
     {
-        "id": 13,
+        "id": 12,
         "title": "Samsung 27-inch Curved Gaming Monitor",
         "rating": 4.6,
         "category": "Electronics",
@@ -117,7 +108,7 @@
         "image": "https://images-eu.ssl-images-amazon.com/images/I/81cSdJuBbFL._AC_UL600_SR600,600_.jpg"
     },
     {
-        "id": 14,
+        "id": 13,
         "title": "Dyson V11 Animal Cordless Vacuum Cleaner",
         "rating": 4.9,
         "category": "Home & Kitchen",
@@ -126,7 +117,7 @@
         "image": "https://images-cdn.ubuy.co.in/6458f55d92204111e4131c10-dyson-v11-animal-cordless-vacuum.jpg"
     },
     {
-        "id": 15,
+        "id": 14,
         "title": "Under Armour Men's Tech 2.0 Short Sleeve T-Shirt",
         "rating": 4.4,
         "category": "Clothing",
@@ -135,7 +126,7 @@
         "image": "https://m.media-amazon.com/images/I/61Hgr+ecuiL._AC_UY1100_.jpg"
     },
     {
-        "id": 16,
+        "id": 15,
         "title": "Bose QuietComfort 35 II Wireless Headphones",
         "rating": 4.7,
         "category": "Electronics",
