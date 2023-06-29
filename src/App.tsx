@@ -1,4 +1,6 @@
 import React from 'react';
+import './Styles/App.css';
+
 import { Container } from 'react-bootstrap';
 import { Routes, Route, Navigate } from 'react-router-dom';
 
