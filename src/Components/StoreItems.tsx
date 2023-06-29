@@ -31,19 +31,25 @@ export function StoreItems({ id, image, title, price }: StoreItemsProps) {
                 </div>
                 <div className="mt-auto">
                     {quantity === 0 ? (
-                        <Button variant="dark" className="w-100" onClick={() => increaseCartQuantity(id)}>Add to Cart</Button>
+                        <Button variant="dark" className="w-100" onClick={() => increaseCartQuantity(id)}>
+                            <i className="fa-solid fa-cart-plus"></i> Add to Cart
+                        </Button>
                     ) : (
                         <div className="d-flex align-items-center flex-column" style={{ gap: "0.5rem" }}>
                             <div className="d-flex justify-content-center align-items-center" style={{ gap: "0.5rem" }}>
-                                <Button variant="danger" onClick={() => decreaseCartQuantity(id)}>-</Button>
+                                <Button variant="danger" onClick={() => decreaseCartQuantity(id)}>
+                                    <i className="fa-solid fa-minus"></i>
+                                </Button>
                                 <div>
                                     <span className="fs-3">{quantity}</span> in cart
                                 </div>
                                 <Button variant="success" onClick={() => increaseCartQuantity(id)}>
-                                    +
+                                    <i className="fa-solid fa-plus"></i>
                                 </Button>
                             </div>
-                            <Button variant="warning" onClick={() => removeFromCart(id)}>Remove</Button>
+                            <Button variant="warning" onClick={() => removeFromCart(id)}>
+                                <i className="fa-solid fa-trash"></i> Remove
+                            </Button>
                         </div>
                     )}
                 </div>
